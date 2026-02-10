@@ -38,7 +38,7 @@ const Navbar = () => {
                     <div className="hidden md:block">
                         <div className="flex items-center space-x-4">
                             <a href="https://github.com/Vimal0002" target="_blank" rel="noreferrer" className="text-zinc-400 hover:text-white transition-colors"><Github size={20} /></a>
-                            <a href="https://www.linkedin.com/in/vimal-pratap-singh" target="_blank" rel="noreferrer" className="text-zinc-400 hover:text-white transition-colors"><Linkedin size={20} /></a>
+                            <a href="https://www.linkedin.com/in/vimal-pratap-singh-831913292/" target="_blank" rel="noreferrer" className="text-zinc-400 hover:text-white transition-colors"><Linkedin size={20} /></a>
                         </div>
                     </div>
                     <div className="-mr-2 flex md:hidden">

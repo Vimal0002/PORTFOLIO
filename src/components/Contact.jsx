@@ -105,7 +105,7 @@ const Contact = () => {
                                 <a href="https://github.com/Vimal0002" target="_blank" rel="noreferrer" className="p-3 bg-zinc-900 border border-zinc-800 shadow-sm rounded-lg text-zinc-500 hover:bg-zinc-800 hover:text-white transition-all">
                                     <Github size={24} />
                                 </a>
-                                <a href="https://www.linkedin.com/in/vimal-pratap-singh" target="_blank" rel="noreferrer" className="p-3 bg-zinc-900 border border-zinc-800 shadow-sm rounded-lg text-zinc-500 hover:bg-blue-900/50 hover:text-blue-400 transition-all">
+                                <a href="https://www.linkedin.com/in/vimal-pratap-singh-831913292/" target="_blank" rel="noreferrer" className="p-3 bg-zinc-900 border border-zinc-800 shadow-sm rounded-lg text-zinc-500 hover:bg-blue-900/50 hover:text-blue-400 transition-all">
                                     <Linkedin size={24} />
                                 </a>
                             </div>
